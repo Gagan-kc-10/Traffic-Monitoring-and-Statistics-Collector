@@ -36,5 +36,5 @@ Shows flow statistics including:
 Traffic Statistics Output
 ![Output](screenshots/output.png)
 
-Mininet Topology
+Mininet
 ![Mininet](screenshots/mininet.png)
