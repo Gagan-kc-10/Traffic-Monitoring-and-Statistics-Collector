@@ -30,3 +30,11 @@ Shows flow statistics including:
 - Packet count
 - Byte count
 - Total traffic
+
+#Screenshots
+
+Traffic Statistics Output
+![Output](screenshots/output.png)
+
+Mininet Topology
+![Mininet](screenshots/mininet.png)
